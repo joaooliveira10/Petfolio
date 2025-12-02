@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Petfolio.Communication/1.0.0": {
+        "dependencies": {
+          "Scalar.AspNetCore": "2.11.0"
+        },
+        "runtime": {
+          "Petfolio.Communication.dll": {}
+        }
+      },
+      "Scalar.AspNetCore/2.11.0": {
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.11.0.0",
+            "fileVersion": "2.11.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petfolio.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Scalar.AspNetCore/2.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zOV12+2VE6Tsb3U3YRtJtVABmzbAEPEkiYLAckHBgUuj6suarSp3kA4HE3UU9kNQmJrU6xrD5GTOAtwVENMgJQ==",
+      "path": "scalar.aspnetcore/2.11.0",
+      "hashPath": "scalar.aspnetcore.2.11.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsqJJ7xcemc=",
+  "success": true,
+  "projectFilePath": "/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Application/Petfolio.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/joaooliveira/.nuget/packages/scalar.aspnetcore/2.11.0/scalar.aspnetcore.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

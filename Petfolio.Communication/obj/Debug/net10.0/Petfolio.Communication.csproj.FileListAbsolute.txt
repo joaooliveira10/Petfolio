@@ -1,0 +1,12 @@
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/bin/Debug/net10.0/Petfolio.Communication.deps.json
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/bin/Debug/net10.0/Petfolio.Communication.dll
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/bin/Debug/net10.0/Petfolio.Communication.pdb
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.AssemblyInfoInputs.cache
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.AssemblyInfo.cs
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.csproj.CoreCompileInputs.cache
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.dll
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/refint/Petfolio.Communication.dll
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.pdb
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/ref/Petfolio.Communication.dll
+/Users/joaooliveira/RiderProjects/Petfolio/Petfolio.Communication/obj/Debug/net10.0/Petfolio.Communication.csproj.AssemblyReference.cache
